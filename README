@@ -1,0 +1,35 @@
+Welcome to the adjust challenge README.
+
+This repo contains a file mean to meet the requirements of the challege stated
+
+the challenge stated in the email was the following.
+
+Please write a simple CLI application in the language of your choice that does the following:
+
+ 
+
+Print the numbers from 1 to 10 in random order to the terminal.
+
+ 
+
+Please provide a README, that explains in detail how to run the program on MacOS and Linux.
+
+The run this file you can either copy the raw of the .sh file in the repo and copy it into the editor of your choice and save it or
+you can clone this repo and you should have all of the files in this repo on your machine.
+this clone this repo make sure that you have git installed and use the command "git clone" followed by the url of this repo an example of this is:
+git clone <url of the repo>
+
+You could also just download the script file by clicking the download button in github to just download the script file.
+
+Once you have the file you may have to grant execute permissions to actually run the file.
+to grant permissions on the script file you can run the following on linux: chmod +x <name of file>.sh
+the command will also work on OSX as well.
+
+After granting permissions You can run the file by either invoking "bash" then calling the filename or running "./" then filename here are some examples 
+
+example 1:"bash <script>.sh"
+example 2:"./<script>.sh"
+
+If you have followed all of the instructions above you should have been able to run the file with no problem.
+
+
